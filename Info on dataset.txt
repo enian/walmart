@@ -1,0 +1,8 @@
+Total Lines 4617600
+
+zeros 4498904
+
+Non Zeros 118696
+
+There are 45 stores in the list 1:45
+There are 111 products in each store 1:111
